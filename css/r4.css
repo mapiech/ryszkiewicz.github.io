@@ -1,0 +1,31 @@
+@media (max-width: 991px) {
+    #me-container {
+        justify-content: center;
+        text-align: center;
+    }
+
+    #hello {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 450px) {
+
+    #map-container {
+        padding: 20px 0;
+    }
+
+    #logo img {
+        border-radius: 12px;
+        width: 120px;
+        height: 99px;
+
+    }
+
+    #navbarTop {
+        padding-left: 135px;
+    }
+
+}
+
